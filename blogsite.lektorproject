@@ -2,4 +2,4 @@
 name = blogsite
 
 [servers.ghpages]
-target = ghpages+https:://dartmn9/blogsite/
+target = ghpages+https://dartmn9/blogsite/
