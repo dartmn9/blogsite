@@ -1,6 +1,5 @@
-title: Welcome to blogsite!
+title: Welcome to My Blog!
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+This is a website created using Lektor and Travis-CI.  It was created after listening a Python Bytes Podcast featuring a member of the Lektor team.
